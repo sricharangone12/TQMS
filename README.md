@@ -52,6 +52,3 @@
 5. How to access UI:
 
     http://localhost:3000
-
-
-6. APIs details:
